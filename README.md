@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://wecode101.com/laravel-8-validation" target="_blank">WeCode101 Laravel Validation </a></h1>
+<h1 align="center"><a href="https://wecode101.com/laravel-8-form-validation-example" target="_blank">WeCode101 Laravel Validation </a></h1>
 
 This mini project shows how to validate your incoming data using Laravel 8.
 
